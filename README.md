@@ -1,1 +1,0 @@
-# zonagrafika-js
